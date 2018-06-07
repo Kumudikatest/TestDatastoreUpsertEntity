@@ -1,0 +1,8 @@
+{
+  "name": "TestDatastoreUpsertEntity",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "2.176.0",
+    "googleapis": "29.0.0"
+  }
+}
